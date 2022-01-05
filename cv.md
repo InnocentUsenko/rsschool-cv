@@ -1,8 +1,8 @@
-#rsschool-cv
+# rsschool-cv
 ***
-#Vladislav Usenko
+# Vladislav Usenko
 ***
-##Contacts
+## Contacts
 ***
 * Location: Russia, Moscow
 * Phone: +79621603761
@@ -10,17 +10,18 @@
 * Github: [InnocentUsenko](https://github.com/InnocentUsenko)
 * Discord: Innocent#7553
 
-##About me
+## About me
 ***
 Welcome to my resume. I'm taking courses at rs.school, I'm new to programming. I really enjoyed the opportunity to take part in this project and acquire new useful skills. I also hope to make this direction the main one for myself. Thanks!
 
-##Skills
+## Skills
 * HTML
 * CSS
 * Git
 
-##Code Example
+## Code Example
 ***
+
 ```
 <p>Нажмите на кнопку ниже.</p>
 <input type='button' value='Нажмите на меня' onclick='showMessage()'>
@@ -31,6 +32,6 @@ function showMessage() {
 </script>
 ```
 
-##English
+## English
 ***
 A2 - Pre-Intermediate
